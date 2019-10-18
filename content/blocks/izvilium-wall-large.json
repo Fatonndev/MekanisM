@@ -1,0 +1,12 @@
+{
+	"name": "izvilium Wall large",
+	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"type": "Wall",
+	"health": 3840,
+	"size": 2,
+	"requirements": [
+		{ "item": "izvilium", "amount": 26 }
+	],
+	"category": "defense",
+	"research": "lirium-wall-large"
+}

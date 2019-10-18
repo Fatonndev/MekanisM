@@ -1,0 +1,12 @@
+{
+	"name": "Steel Wall",
+	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"type": "Wall",
+	"health": 560,
+	"size": 1,
+	"requirements": [
+		{ "item": "steel", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Lirium Wall",
+	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"type": "Wall",
+	"health": 780,
+	"size": 1,
+	"requirements": [
+		{ "item": "lirium", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "steel-wall"
+}
