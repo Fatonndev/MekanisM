@@ -1,0 +1,30 @@
+{
+	"name": "Laser",
+	"description": "Its like an medieval mortare. With smaaal difference - it shoots Plasma. For Besiege!",
+	"type": "ArtilleryTurret",
+	"category": "turret",
+	"size": 3,
+	"health": "1000",
+	"requirements": [
+		{ "item": "copper", "amount": 200 },
+		{ "item": "graphite", "amount": 100 },
+		{"item": "plastanium", "amount": 150}
+	],
+	"ammo": {
+		"soularium": {
+			"speed": 5,
+			"splashDamage": 60,
+			"splashDamageRadius": 40,
+			"lifetime": 160,
+			"damage": 225,
+			"shootType": "Bullets.artilleryIncendary"
+		}
+	},
+	"reload": 180,
+	"shots": 1,
+	"range": "300",
+	"rotateSpeed": 3,
+	"recoil": 3,
+	"targetAir": false,
+	"targetGround": true
+}
