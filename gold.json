@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "Gold",
-	"description": "A rare resource.",
-	"cost": 2.0,
-	"hardness": 4,
-	"color": "ffd700"
-}
