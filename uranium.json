@@ -1,7 +1,0 @@
-{
-	"type": "resource",
-	"name": "Uranium",
-	"description": "Gold in powder form. Only used for production.",
-	"color": "013220"
-	"hardness": 6,
-}
