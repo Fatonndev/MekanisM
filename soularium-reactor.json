@@ -1,0 +1,28 @@
+{
+	"type": "ImpactReactor",
+	"name": "Soularium reactor",
+	"description": "Just the best place for your bananas",
+	"itemCapacity": 10,
+	"size": 4,
+	"hasLiquids": true,
+    "powerProduction": 180,
+    "itemDuration" : 150,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+	    "power": 50.0,
+		"item": "soularium",
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.4
+			}
+    },
+	"requirements": [
+		{"item": "titanium", "amount": 90},
+		{"item": "copper", "amount": 250},
+		{"item": "silicon", "amount": 105}
+	],
+	"category": "power",
+	"research": "impact-reactor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
