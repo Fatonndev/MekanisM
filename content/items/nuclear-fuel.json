@@ -1,0 +1,7 @@
+{
+	"type": "resource",
+	"name": "Nuclear fuel",
+	"description": "An alloy of silver and gold.",
+	"cost": 2.0,
+	"color": "009900"
+}

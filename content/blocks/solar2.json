@@ -1,0 +1,14 @@
+{
+	"type": "SolarGenerator",
+	"name": "Solar panel 3",
+	"description": "Just the best place for your bananas",
+	"size": 3,
+    "powerProduction": 2.2,
+	"requirements": [
+		{"item": "titanium", "amount": 90},
+		{"item": "copper", "amount": 250},
+		{"item": "silicon", "amount": 105}
+	],
+	"category": "power",
+	"research": "solar1"
+}

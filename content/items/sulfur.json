@@ -1,0 +1,7 @@
+{
+	"type": "resource",
+	"name": "Sulfur",
+	"hardness": 2,
+	"description": "Gold in powder form. Only used for production.",
+	"color": "FFFF00"
+}

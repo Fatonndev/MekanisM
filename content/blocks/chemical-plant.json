@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "lirium plant",
+	"description": "Melts steel from iron and coal.",
+	"outputLiquid": {"liquid": "sulfuric-acid", "amount": 10},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "iron", "amount": 1 },
+				{ "item": "sulfur", "amount": 3 },
+			]
+	      }
+		  "liquid": {
+			"liquid": "water",
+			"amount": 0.4
+			}
+		},
+		
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "titanium", "amount": 50 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

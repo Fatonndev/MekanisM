@@ -1,0 +1,12 @@
+{
+	"type": "battery",
+	"name": "improved battery",
+	"size": 3,
+	"category": "power",
+	"requirements": [
+		{"item": "titanium", "amount": 90},
+		{"item": "copper", "amount": 250},
+		{"item": "silicon", "amount": 105}
+	],
+	"consumes": { "powerBuffered": 1000000 }
+}
