@@ -1,3 +1,4 @@
+# This is a test version of the mod, in the future, all textures will be replaced!
 # Mekanism
 Mod for the game Mindustry.
 
