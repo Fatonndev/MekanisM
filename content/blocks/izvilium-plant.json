@@ -1,0 +1,35 @@
+{
+	"type": "GenericSmelter",
+	"name": "izvilium plant",
+	"description": "Melts steel from iron and coal.",
+	"outputItem": {"item": "izvilium", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "uranium-238", "amount": 1 },
+				{ "item": "titanium", "amount": 2 },
+			]
+	      }
+		  "liquid": {
+			"liquid": "sulfuric-acid",
+			"amount": 0.3
+			}
+		},
+		
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "titanium", "amount": 50 }
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
