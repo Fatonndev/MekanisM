@@ -1,4 +1,4 @@
-# This is a test version of the mod, in the future, all textures will be replaced!
+# This is a test version of the mod, in the future, all textures will be replaced! The cost of crafting is not specified!
 # Mekanism
 Mod for the game Mindustry.
 
