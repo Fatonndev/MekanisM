@@ -1,7 +1,7 @@
 {
 	"type": "SingleTypeGenerator",
 	"name": "Nuclear reactor",
-	"description": "Just the best place for your bananas",
+	"description": "Produces energy through the use of uranium fuel.",
 	"outputItem": {"item": "uranium-238", "amount": 1},
 	"itemCapacity": 10,
 	"size": 4,
@@ -17,9 +17,15 @@
 			}
     },
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{ "item": "lead", "amount": 70 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "silicon", "amount": 80 },
+		{ "item": "gold", "amount": 60 },
+		{ "item": "iron", "amount": 140 },
+		{ "item": "lirium", "amount": 90 },
+		{ "item": "izvilium", "amount": 50 },
+		{ "item": "soularium", "amount": 30 },
+		{ "item": "titanium", "amount": 80 }
 	],
 	"category": "power",
 	"research": "thermal-generator",

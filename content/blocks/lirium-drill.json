@@ -1,6 +1,6 @@
 {
 	"name": "Lirium Drill",
-	"description": "A very strange drill.",
+	"description": "Used for uranium mining.",
 	"type": "Drill",
 	"size": 3,
 	"tier": 6,
@@ -15,6 +15,9 @@
 	"requirements": [
 		{ "item": "lirium", "amount": 80 },
 		{ "item": "silicon", "amount": 40 },
+		{ "item": "gold", "amount": 20 },
+		{ "item": "thorium", "amount": 20 },
+		{ "item": "iron", "amount": 80 },
 		{ "item": "graphite", "amount": 20 }
 	],
 	"category": "production",

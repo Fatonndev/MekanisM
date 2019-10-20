@@ -1,12 +1,17 @@
 {
 	"type": "battery",
-	"name": "improved battery",
+	"name": "Improved battery 2",
 	"size": 3,
 	"category": "power",
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{"item": "titanium", "amount": 120},
+		{"item": "copper", "amount": 60},
+		{"item": "silicon", "amount": 80},
+		{"item": "lirium", "amount": 20},
+		{"item": "iron", "amount": 70},
+		{"item": "gold", "amount": 40},
+		{"item": "steel", "amount": 25},
+		{"item": "izvilium", "amount": 10}
 	],
 	"consumes": { "powerBuffered": 500000 }
 }

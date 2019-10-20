@@ -1,13 +1,17 @@
 {
 	"type": "SolarGenerator",
-	"name": "Solar panel 3",
-	"description": "Just the best place for your bananas",
+	"name": "Solar panel 2",
+	"description": "Improved version of large solar panel",
 	"size": 3,
     "powerProduction": 2.2,
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{"item": "titanium", "amount": 100},
+		{"item": "phase-fabric", "amount": 25},
+		{"item": "lead", "amount": 270},
+		{"item": "copper", "amount": 270},
+		{"item": "silicon", "amount": 120},
+		{"item": "lirium", "amount": 80},
+		{"item": "izvilium", "amount": 40},
 	],
 	"category": "power",
 	"research": "solar1"

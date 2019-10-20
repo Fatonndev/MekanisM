@@ -1,11 +1,12 @@
 {
 	"type": "Conveyor",
 	"name": "Lirium conveyor",
-	"description": "Just the best place for your bananas",
+	"description": "Improved version of titanium conveyor.",
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{"item": "titanium", "amount": 3},
+		{"item": "copper", "amount": 3},
+		{"item": "lead", "amount": 3},
+		{"item": "lirium", "amount": 3}
 	],
 	"category": "distribution",
 	"speed": 0.12,

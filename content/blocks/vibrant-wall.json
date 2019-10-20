@@ -1,6 +1,6 @@
 {
 	"name": "vibrant Wall",
-	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"description": "A wall made of vibrant. Not particularly useful or interesting.",
 	"type": "Wall",
 	"health": 1200,
 	"size": 1,

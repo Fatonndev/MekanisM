@@ -1,13 +1,16 @@
 {
 	"type": "Conveyor",
 	"name": "Vibrant conveyor",
-	"description": "Just the best place for your bananas",
+	"description": "Improved version of izvilium conveyor.",
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{"item": "titanium", "amount": 10},
+		{"item": "copper", "amount": 10},
+		{"item": "lead", "amount": 10},
+		{"item": "lirium", "amount": 10},
+		{"item": "izvilium", "amount": 10},
+		{"item": "vibrant", "amount": 10}
 	],
 	"category": "distribution",
 	"speed": 0.5,
-	"research": "titanium-conveyor"
+	"research": "izvilium-conveyor"
 }

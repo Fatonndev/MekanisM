@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "lirium plant",
-	"description": "Melts steel from iron and coal.",
+	"name": "Chemical plant",
+	"description": "Makes sulfuric acid from sulfur, iron and water",
 	"outputLiquid": {"liquid": "sulfuric-acid", "amount": 10},
 	"size": 2,
 	"hasPower": true,
@@ -25,7 +25,9 @@
 		
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
+		{ "item": "iron", "amount": 80 },
+		{ "item": "gold", "amount": 10 },
+		{ "item": "thorium", "amount": 40 },
 		{ "item": "silicon", "amount": 60 },
 		{ "item": "titanium", "amount": 50 }
 	],

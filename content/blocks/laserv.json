@@ -1,6 +1,6 @@
 {
 	"name": "Aerial Laser",
-	"description": "Its like an medieval mortare. With smaaal difference - it shoots Plasma. For Besiege!",
+	"description": "Deals heavy damage to aerial enemies.",
 	"type": "ArtilleryTurret",
 	"category": "turret",
 	"size": 3,
@@ -8,7 +8,10 @@
 	"requirements": [
 		{ "item": "copper", "amount": 200 },
 		{ "item": "graphite", "amount": 100 },
-		{"item": "plastanium", "amount": 150}
+		{ "item": "izvilium", "amount": 100 },
+		{ "item": "lirium", "amount": 120 },
+		{ "item": "steel", "amount": 300 },
+		{ "item": "plastanium", "amount": 150 }
 	],
 	"ammo": {
 		"soularium": {

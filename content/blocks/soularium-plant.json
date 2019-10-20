@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "soularium plant",
-	"description": "Melts steel from iron and coal.",
+	"name": "Soularium plant",
+	"description": "Melts soularium from blast compound, surge-alloy and plastanium.",
 	"outputItem": {"item": "soularium", "amount": 1},
 	"size": 3,
 	"hasPower": true,
@@ -25,10 +25,16 @@
 		},
 		
 	"requirements": [
-		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
-		{ "item": "silicon", "amount": 60 },
-		{ "item": "titanium", "amount": 50 }
+		{ "item": "thorium", "amount": 40 },
+		{ "item": "lead", "amount": 70 },
+		{ "item": "iron", "amount": 200 },
+		{ "item": "copper", "amount": 80 },
+		{ "item": "graphite", "amount": 80 },
+		{ "item": "silicon", "amount": 120 },
+		{ "item": "titanium", "amount": 90 },
+		{ "item": "steel", "amount": 70 },
+		{ "item": "lirium", "amount": 40 },
+		{ "item": "izvilium", "amount": 20 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

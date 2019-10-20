@@ -17,9 +17,19 @@
 			}
     },
 	"requirements": [
-		{"item": "titanium", "amount": 90},
-		{"item": "copper", "amount": 250},
-		{"item": "silicon", "amount": 105}
+		{ "item": "lead", "amount": 120 },
+		{ "item": "iron", "amount": 300 },
+		{ "item": "gold", "amount": 80 },
+		{ "item": "copper", "amount": 400 },
+		{ "item": "graphite", "amount": 180 },
+		{ "item": "silicon", "amount": 200 },
+		{ "item": "titanium", "amount": 150 },
+		{ "item": "thorium", "amount": 90 },
+		{ "item": "steel", "amount": 130 },
+		{ "item": "lirium", "amount": 80 },
+		{ "item": "izvilium", "amount": 80 },
+		{ "item": "vibrant", "amount": 80 },
+		{ "item": "soularium", "amount": 50 }
 	],
 	"category": "power",
 	"research": "impact-reactor",

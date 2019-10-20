@@ -1,6 +1,6 @@
 {
 	"name": "lirium Wall large",
-	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"description": "A wall made of lirium. Not particularly useful or interesting.",
 	"type": "Wall",
 	"health": 3120,
 	"size": 2,

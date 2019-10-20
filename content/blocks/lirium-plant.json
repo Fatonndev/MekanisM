@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
-	"name": "lirium plant",
-	"description": "Melts steel from iron and coal.",
+	"name": "Lirium plant",
+	"description": "Melts lirium from gold, steel and sulfuric acid.",
 	"outputItem": {"item": "lirium", "amount": 1},
 	"size": 3,
 	"hasPower": true,
@@ -24,10 +24,13 @@
 		},
 		
 	"requirements": [
-		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
-		{ "item": "silicon", "amount": 60 },
-		{ "item": "titanium", "amount": 50 }
+		{ "item": "lead", "amount": 60 },
+		{ "item": "iron", "amount": 30 },
+		{ "item": "copper", "amount": 70 },
+		{ "item": "graphite", "amount": 10 },
+		{ "item": "silicon", "amount": 30 },
+		{ "item": "titanium", "amount": 20 },
+		{ "item": "steel", "amount": 20 },
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

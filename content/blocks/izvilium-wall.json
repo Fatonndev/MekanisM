@@ -1,6 +1,6 @@
 {
 	"name": "izvilium Wall",
-	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"description": "A wall made of izvilium. Not particularly useful or interesting.",
 	"type": "Wall",
 	"health": 960,
 	"size": 1,

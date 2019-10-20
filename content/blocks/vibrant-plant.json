@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "izvilium plant",
+	"name": "Vibrant plant",
 	"description": "Melts steel from iron and coal.",
 	"outputItem": {"item": "vibrant", "amount": 1},
 	"size": 3,
@@ -25,10 +25,17 @@
 		},
 		
 	"requirements": [
-		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
-		{ "item": "silicon", "amount": 60 },
-		{ "item": "titanium", "amount": 50 }
+		{ "item": "lead", "amount": 120 },
+		{ "item": "iron", "amount": 300 },
+		{ "item": "copper", "amount": 400 },
+		{ "item": "graphite", "amount": 180 },
+		{ "item": "silicon", "amount": 200 },
+		{ "item": "titanium", "amount": 150 },
+		{ "item": "thorium", "amount": 90 },
+		{ "item": "steel", "amount": 130 },
+		{ "item": "lirium", "amount": 80 },
+		{ "item": "izvilium", "amount": 80 },
+		{ "item": "soularium", "amount": 50 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",

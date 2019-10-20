@@ -26,6 +26,7 @@
 		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 80 },
 		{ "item": "silicon", "amount": 60 },
+		{ "item": "lirium", "amount": 20 },
 		{ "item": "titanium", "amount": 50 }
 	],
 	"category": "crafting",

@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "silicon smelter",
-	"description": "Melts steel from iron and coal.",
+	"description": "An improved version of the silicon plant.",
 	"outputItem": {"item": "silicon", "amount": 3},
 	"size": 4,
 	"hasPower": true,
@@ -25,8 +25,11 @@
 		
 	"requirements": [
 		{ "item": "lead", "amount": 50 },
-		{ "item": "thorium", "amount": 80 },
+		{ "item": "copper", "amount": 80 },
 		{ "item": "silicon", "amount": 60 },
+		{ "item": "graphite", "amount": 20 },
+		{ "item": "iron", "amount": 60 },
+		{ "item": "gold", "amount": 20 },
 		{ "item": "titanium", "amount": 50 }
 	],
 	"category": "crafting",

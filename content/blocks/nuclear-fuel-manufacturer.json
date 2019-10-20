@@ -1,7 +1,7 @@
 {
 	"type": "GenericSmelter",
 	"name": "nuclear fuel plant",
-	"description": "Melts steel from iron and coal.",
+	"description": "Creates uranium fuel for the reactor",
 	"outputItem": {"item": "nuclear-fuel", "amount": 1},
 	"size": 2,
 	"hasPower": true,
@@ -27,6 +27,11 @@
 		{ "item": "lead", "amount": 50 },
 		{ "item": "thorium", "amount": 80 },
 		{ "item": "silicon", "amount": 60 },
+		{ "item": "gold", "amount": 40 },
+		{ "item": "iron", "amount": 100 },
+		{ "item": "lirium", "amount": 70 },
+		{ "item": "izvilium", "amount": 30 },
+		{ "item": "soularium", "amount": 10 },
 		{ "item": "titanium", "amount": 50 }
 	],
 	"category": "crafting",
