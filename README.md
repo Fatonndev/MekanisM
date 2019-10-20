@@ -7,5 +7,4 @@ Mod for the game Mindustry.
 
 Simply zip up the contents of this respository, then import them through the `Mods` dialog in Mindustry. Or, place this folder inside Mindustry's `mods/` folder.
 
-https://discordapp.com/channels/633294014048632832/633294014568988683/635497097147318322
 
