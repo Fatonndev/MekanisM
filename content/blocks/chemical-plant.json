@@ -16,7 +16,7 @@
 				{ "item": "iron", "amount": 1 },
 				{ "item": "sulfur", "amount": 3 },
 			]
-	      }
+	      },
 		  "liquid": {
 			"liquid": "water",
 			"amount": 0.4
