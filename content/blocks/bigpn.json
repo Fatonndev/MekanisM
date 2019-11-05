@@ -1,0 +1,14 @@
+{
+	"name": "Big power node",
+	"description": "",
+	"type": "PowerNode",
+	"health": 2500,
+	"size": 3,
+	"maxNodes": 40,
+	"laserRange": 30,
+	"requirements": [
+		{ "item": "lirium", "amount": 10 },
+		{ "item": "gold", "amount": 30 }
+	],
+	"category": "power"
+}

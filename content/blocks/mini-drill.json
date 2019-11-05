@@ -1,0 +1,13 @@
+{
+	"name": "Mini Drill",
+	"description": "",
+	"type": "Drill",
+	"size": 1,
+	"tier": 2,
+	"drillTime": 1500,
+	"requirements": [
+		{ "item": "copper", "amount": 5 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

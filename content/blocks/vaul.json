@@ -1,0 +1,14 @@
+{
+	"name": "Big Vault",
+	"description": "",
+	"type": "Vault",
+	"itemCapacity": 100000,
+	"hasItems": true,
+	"health": 100000,
+	"size": 3,
+	"requirements": [
+		{ "item": "izvilium", "amount": 80 },
+		{ "item": "lirium", "amount": 130 }
+	],
+	"category": "effect"
+}

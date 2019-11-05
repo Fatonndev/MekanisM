@@ -1,0 +1,7 @@
+{
+	"type": "CoreBlock",
+	"name": "BIG CORE",
+	"size": 6,
+	"itemCapacity": 1000000,
+	"health": 15000
+}

@@ -1,0 +1,23 @@
+{
+	"type": "MassDriver",
+	"name": "Teleporter",
+	"description": "Resources will teleport over great distances",
+	"size": 1,
+	"itemCapacity": 10,
+	"hasPower": true,
+	"consumes": {
+	"power": 1.0
+	},
+	"range": 4000
+	"reloadtime": 0.00001,
+	"requirements": [
+	    { "item": "vibrant", "amount": 100 },
+		{ "item": "lead", "amount": 50 },
+		{ "item": "iron", "amount": 20 },
+		{ "item": "copper", "amount": 60 },
+		{ "item": "graphite", "amount": 20 },
+		{ "item": "silicon", "amount": 20 },
+		{ "item": "titanium", "amount": 10 }
+	],
+	"category": "distribution"
+}
