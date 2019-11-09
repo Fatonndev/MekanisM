@@ -1,5 +1,8 @@
 # Mekanism
-Mod for the game Mindustry.
+Mod for the game Mindustry. New update!
+
+https://youtu.be/T-aw3pzK4uY
+https://youtu.be/Jsqu2wXV0ZY
 
 ## Importing
 
